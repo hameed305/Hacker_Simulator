@@ -32,10 +32,6 @@ This project is a fun and beginner-friendly hacking simulator that mimics a hack
    ```
 3. Open the `index.html` file in your browser.
 
-### Live Demo
-
-If you want to see a live demo, visit: [GitHub Pages](https://hameed305.github.io/hacking-simulator/) _(Replace with actual link if deployed)_
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have ideas for improvements:
