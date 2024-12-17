@@ -1,0 +1,15 @@
+{
+  "name": "hacker-simulator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "tailwindcss": "^3.4.16"
+  },
+  "keywords": [],
+  "author": "Hameed Jan",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  }
+}

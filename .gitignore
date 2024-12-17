@@ -1,0 +1,25 @@
+node_modules/
+
+*.css.map
+tailwind.config.js
+
+/build
+/dist
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.DS_Store
+
+.env
+
+*.tmp
+*.log
+
+.vscode/
+.idea/
+*.sw?
+
+Thumbs.db
