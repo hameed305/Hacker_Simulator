@@ -2,6 +2,10 @@
 
 A simple and interactive hacking simulator project built using **HTML**, **CSS**, and **JavaScript**.
 
+## Live Demo
+
+<a href="https://hacker-simulator-tau.vercel.app/" target="_blank">Hacker simulator</a>
+
 ## Overview
 
 This project is a fun and beginner-friendly hacking simulator that mimics a hacking environment through animations, text effects, and terminal-like commands. It is designed to demonstrate creative use of frontend web technologies.
