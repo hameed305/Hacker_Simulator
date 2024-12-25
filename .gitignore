@@ -1,7 +1,6 @@
 node_modules/
 
 *.css.map
-tailwind.config.js
 
 /build
 /dist
